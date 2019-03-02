@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Phone Cover on Go and talk</title>
-    <link>https://online-showroom.github.io/product/phone-cover/</link>
-    <description>Recent content in Phone Cover on Go and talk</description>
+    <title>Phone Cover on Go and talk page builder</title>
+    <link>https://online-showroom.gitlab.io/product/phone-cover/</link>
+    <description>Recent content in Phone Cover on Go and talk page builder</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019, GoAndMake.app.</copyright>
     <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://online-showroom.github.io/product/phone-cover/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://online-showroom.gitlab.io/product/phone-cover/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>iphone x cases</title>
-      <link>https://online-showroom.github.io/product/phone-cover/iphone-x/</link>
+      <link>https://online-showroom.gitlab.io/product/phone-cover/iphone-x/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://online-showroom.github.io/product/phone-cover/iphone-x/</guid>
+      <guid>https://online-showroom.gitlab.io/product/phone-cover/iphone-x/</guid>
       <description>notes about this case
 instructions about all cases</description>
     </item>

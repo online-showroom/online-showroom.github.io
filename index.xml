@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Online Showroom on Go and talk</title>
-    <link>https://online-showroom.github.io/</link>
-    <description>Recent content in Online Showroom on Go and talk</description>
+    <title>Online Showroom on Go and talk page builder</title>
+    <link>https://online-showroom.gitlab.io/</link>
+    <description>Recent content in Online Showroom on Go and talk page builder</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2019, GoAndMake.app.</copyright>
     <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://online-showroom.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://online-showroom.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Go and Talk Page Builder</title>
-      <link>https://online-showroom.github.io/edit/</link>
+      <link>https://online-showroom.gitlab.io/edit/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://online-showroom.github.io/edit/</guid>
+      <guid>https://online-showroom.gitlab.io/edit/</guid>
       <description>Hover on the left edge of the screen to manage sites and pages, or load remote data.
 Hover on the top edge of a section to manage the section.</description>
     </item>
     
     <item>
       <title>iphone x cases</title>
-      <link>https://online-showroom.github.io/product/phone-cover/iphone-x/</link>
+      <link>https://online-showroom.gitlab.io/product/phone-cover/iphone-x/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://online-showroom.github.io/product/phone-cover/iphone-x/</guid>
+      <guid>https://online-showroom.gitlab.io/product/phone-cover/iphone-x/</guid>
       <description>notes about this case
 instructions about all cases</description>
     </item>
     
     <item>
       <title>About New Products</title>
-      <link>https://online-showroom.github.io/new/</link>
+      <link>https://online-showroom.gitlab.io/new/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://online-showroom.github.io/new/</guid>
+      <guid>https://online-showroom.gitlab.io/new/</guid>
       <description>some info
 some more info
 some more info here</description>
@@ -44,20 +44,20 @@ some more info here</description>
     
     <item>
       <title>About Showroom Theme</title>
-      <link>https://online-showroom.github.io/about/</link>
+      <link>https://online-showroom.gitlab.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://online-showroom.github.io/about/</guid>
+      <guid>https://online-showroom.gitlab.io/about/</guid>
       <description>Online showroom is a theme for Go and Talk page builder. It can be used to showcase your products or projects, quickly of course.
 Theme Highlight This theme demonstrates the use of global sections in Go and Talk page builder. A global section applies to the whole site. It is created once, and used everywhere. The section about product categories and sub categories are both global sections in this theme.</description>
     </item>
     
     <item>
       <title>Most Popular Products</title>
-      <link>https://online-showroom.github.io/popular/</link>
+      <link>https://online-showroom.gitlab.io/popular/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://online-showroom.github.io/popular/</guid>
+      <guid>https://online-showroom.gitlab.io/popular/</guid>
       <description>some info
 some more info
 some more info here</description>
@@ -65,10 +65,10 @@ some more info here</description>
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://online-showroom.github.io/privacy/</link>
+      <link>https://online-showroom.gitlab.io/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://online-showroom.github.io/privacy/</guid>
+      <guid>https://online-showroom.gitlab.io/privacy/</guid>
       <description>some info
 some more info
 some more info here</description>
@@ -76,10 +76,10 @@ some more info here</description>
     
     <item>
       <title>Terms and Conditions</title>
-      <link>https://online-showroom.github.io/terms-and-conditions/</link>
+      <link>https://online-showroom.gitlab.io/terms-and-conditions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://online-showroom.github.io/terms-and-conditions/</guid>
+      <guid>https://online-showroom.gitlab.io/terms-and-conditions/</guid>
       <description>some info
 some more info
 some more info here</description>
